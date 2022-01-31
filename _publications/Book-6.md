@@ -173,7 +173,7 @@ Till now, we have learned about what is AI, and now we will learn this topic abo
   <img width="360" height="276" src="https://raw.githubusercontent.com/mmohammadi4820/Book_ArtificialIntelligence/main/Authors/MohammadHosseinMohammadi.jpeg">
 </p>
 
-I am Information Technology (IT) Engineer from Islamic Azad University, Najafabad Branch (IAUN) (Racked within the top 3 universities in Iran according to 2021 - 2022 CWUR Ranking). My research involves machine vision, deep learning, and neural networks. I completed my thesis on Semantic segmentation of breast cancer pathology images using the U-Net model
+I am Information Technology (IT) Engineer from Islamic Azad University, Najafabad Branch (IAUN) (Racked within the top 3 universities in Iran according to 2021 - 2022 CWUR Ranking). My research involves machine vision, deep learning, and neural networks. I completed my thesis on Semantic segmentation of breast cancer pathology images using the U-Net model.
 
 ### My main research interests
 - Artificial Intelligence, Machine Learning
