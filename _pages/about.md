@@ -10,7 +10,7 @@ redirect_from:
 
 Hello, My name is Mohammad Hossein Mohammadi!<br>
 
-I am Information Technology (IT) Engineer from Islamic Azad University, Najafabad Branch <a href="https://cwur.org/2021-22/Islamic-Azad-University.php" target="_blank">(IAUN)</a> <u>(Racked within the top 3 universities in Iran according to 2021 - 2022 CWUR Ranking)</u>. My research involves machine vision, deep learning, and neural networks. Where I will complete <strong>my thesis on</strong> <em>Semantic segmentation of breast cancer pathology images using the U-Net model</em> <a href="https://www.google.com" target="_blank"> (Link)</a>.
+I am Information Technology (IT) Engineer from Islamic Azad University, Najafabad Branch <a href="https://cwur.org/2021-22/Islamic-Azad-University.php" target="_blank">(IAUN)</a> <u>(Racked within the top 3 universities in Iran according to 2021 - 2022 CWUR Ranking)</u>. My research involves machine vision, deep learning, and neural networks. I completed <strong>my thesis on</strong> <em>Semantic segmentation of breast cancer pathology images using the U-Net model</em> <a href="https://www.google.com" target="_blank"> (Link)</a>.
 
 My main research interests
 ------
