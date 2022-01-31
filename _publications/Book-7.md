@@ -66,7 +66,7 @@ Innovation is the use of new ideas drawn from creativity. It is the implementati
   <img width="360" height="276" src="https://raw.githubusercontent.com/Mohammadimh76/Book_AStepByStepGuidetoPatentingInIran/main/Authors/MohammadHosseinMohammadi.jpeg">
 </p>
 
-I am Information Technology (IT) Engineer from Islamic Azad University, Najafabad Branch (IAUN) (Racked within the top 3 universities in Iran according to 2021 - 2022 CWUR Ranking). My research involves machine vision, deep learning, and neural networks. I completed my thesis on Semantic segmentation of breast cancer pathology images using the U-Net model
+I am Information Technology (IT) Engineer from Islamic Azad University, Najafabad Branch (IAUN) (Racked within the top 3 universities in Iran according to 2021 - 2022 CWUR Ranking). My research involves machine vision, deep learning, and neural networks. I completed my thesis on Semantic segmentation of breast cancer pathology images using the U-Net model.
 
 ### My main research interests
 - Artificial Intelligence, Machine Learning
