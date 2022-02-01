@@ -6,8 +6,9 @@ author_profile: true
 redirect_from:
   - /resume
 ---
+<br>
 
-⚠️ The Best way to reach me
+⚠️ The Best way to reach me ⚠️
 
 ### Email Address:
 
