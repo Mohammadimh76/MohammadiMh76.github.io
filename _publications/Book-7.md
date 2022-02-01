@@ -25,7 +25,6 @@ venue: 'Arna'
 | <b>[ISBN](http://opac.nlai.ir/opac-prod/search/briefListSearch.do?command=FULL_VIEW&id=7404993&pageStatus=2&sortKeyValue1=sortkey_title&sortKeyValue2=sortkey_author)</b>    |  [978-600-356-922-8](http://opac.nlai.ir/opac-prod/search/briefListSearch.do?command=FULL_VIEW&id=7404993&pageStatus=2&sortKeyValue1=sortkey_title&sortKeyValue2=sortkey_author)   |
 
 ## 〽️Introduction:
-
 This book aims to acquaint faculty and university students, and all the researchers and inventors, interested in registering their designs, with the patenting process in Iran. For this purpose, different chapters intend to convey scientific and applied concepts vividly and serve as a tutorial for researchers. The main concern of this title is to explicitly express everything a researcher is required to know about the patenting process in Iran. We are proud to have taken a step toward creativity and research development for aficionados.<br>
 Team of Authors
 
