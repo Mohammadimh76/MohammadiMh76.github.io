@@ -4,8 +4,8 @@ collection: patents
 permalink: /patents/Patent-4
 excerpt: 'Patent Number: ir 139850140003011312'
 date: 2021-04-21
-paperurl: '../files/CV/CurriculumVitae.pdf'
 ---
+# paperurl: '../files/CV/CurriculumVitae.pdf'
 
 {% include base_path %}
 
