@@ -5,19 +5,11 @@ permalink: /publication/Book-7
 excerpt: 'This book aims to acquaint faculty and university students, and all the researchers and inventors, interested in registering their designs, with the patenting process in Iran...'
 date: 2020-11-01
 venue: 'Arna'
-
-# table of contents
-toc: true
-toc_label: "Contents"
-toc_icon: "dna"
-toc_sticky: true
 ---
 
 <p align="center">
   <img width="460" height="300" src='/images/Patent_Mockup.jpg'>
 </p>
-
-<img align="right"  src='/images/Patent_Mockup.jpg' alt="Photo" style="width: 420px; border-radius: 10px; padding: 10px 10px 10px 10px"/>
 
 
 | Information Book  |   |
@@ -31,14 +23,14 @@ toc_sticky: true
 | <b>Print Length</b>    |  70   |
 | <b>[ISBN](http://opac.nlai.ir/opac-prod/search/briefListSearch.do?command=FULL_VIEW&id=7404993&pageStatus=2&sortKeyValue1=sortkey_title&sortKeyValue2=sortkey_author)</b>    |  [978-600-356-922-8](http://opac.nlai.ir/opac-prod/search/briefListSearch.do?command=FULL_VIEW&id=7404993&pageStatus=2&sortKeyValue1=sortkey_title&sortKeyValue2=sortkey_author)   |
 
-## Introduction:
+## 〽️Introduction:
 This book aims to acquaint faculty and university students, and all the researchers and inventors, interested in registering their designs, with the patenting process in Iran. For this purpose, different chapters intend to convey scientific and applied concepts vividly and serve as a tutorial for researchers. The main concern of this title is to explicitly express everything a researcher is required to know about the patenting process in Iran. We are proud to have taken a step toward creativity and research development for aficionados.<br>
 Team of Authors
-〽️
+
 
 ---
 
-## Table of Contents
+## 🚩Table of Contents
 
 | Chapter 1  | Chapter 2  |
 |-----------|--------------------|
@@ -59,7 +51,6 @@ Team of Authors
 |     | 2-13- Different Types of Notice and Methods of Responding to them   |
 |     | 2-14- Final Conclusion   |
 
-🚩
 
 ## Chapter (1) - Applied methods of ideation in inventions
 There have been different concepts and meanings for the definition of “Creativity” throughout history. For instance, Torrance considers creativity a form of problem solving and defines creative thinking as a process of sensing problems or gaps in information, formulating hypotheses about resolving problems and deficiencies, evaluating, testing, revising and retesting hypotheses, and conveying the results. Rajaei regards creativity as a mental competency in generating novel ideas and introduces conjecture as the driving force behind creativity and sciences. In general, creativity stems from the fountain of human originality, consciousness, and unconsciousness. Despite the popular belief that places creativity at the heart of an idea and deems it valuable in culture development and localization of economic and human needs satisfaction, its essence is entirely captured by an ability to re-conceptualize and generate new ideas. Like other scientific phenomena, creativity has a unique definition and is associated with such parameters as cognitive and socio-environmental processes, individual characteristics, ingenuity, and psychological disorders. In fact, creative thinking occurs when people cease to view their surroundings from previously-adopted perspectives and relinquish previously-held assumptions. Creativity requires the simultaneous presence of a number of traits, e.g. intelligence, tenacity, unconventionality, and the ability to think in a particular manner. Finally, creativity emerges intrinsically without any preconceptions.
