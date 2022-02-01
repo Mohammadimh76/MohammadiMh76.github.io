@@ -15,6 +15,6 @@ author_profile: true
 Articles
 =======
 
-{% for post in site.articles reversed %}
-  {% include archive-single-cv.html %}
-{% endfor %}
+  <ul>{% for post in site.articles reversed %}
+    {% include archive-single-talk-cv.html %}
+  {% endfor %}</ul>
