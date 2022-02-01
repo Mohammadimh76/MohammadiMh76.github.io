@@ -2,9 +2,6 @@
 title: "A Step-By-Step Guide to Patenting in Iran"
 collection: publications
 permalink: /publication/Book-7
-excerpt: 'This book aims to acquaint faculty and university students, and all the researchers and inventors, interested in registering their designs, with the patenting process in Iran...'
-date: 2020-11-01
-venue: 'Arna'
 
 # table of contents
 toc: true
