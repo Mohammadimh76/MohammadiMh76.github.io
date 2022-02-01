@@ -22,9 +22,9 @@ In this idea, there is a new method for presenting, examining, and diagnosing co
 <i>Title of invention in Persian "دستگاه تشخیص زودهنگام بیماری چشمی هتروکرومیا در نوزادان"</i>
 
 <p align="center">
-  <img width="460" height="300" src='/images/patent_hetro_1.jpg'>
-  <img width="460" height="300" src='/images/patent_hetro_2.jpg'>
-  <img width="460" height="300" src='/images/patent_hetro_3.jpg'>
+  <img width="230" height="150" src='/images/patent_hetro_1.jpg'>
+  <img width="230" height="150" src='/images/patent_hetro_2.jpg'>
+  <img width="230" height="150" src='/images/patent_hetro_3.jpg'>
 </p>
 
 ## Related technical context of the invention
