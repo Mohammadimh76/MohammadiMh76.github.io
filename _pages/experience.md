@@ -1,10 +1,12 @@
 ---
-layout: archive
 title: "Experience"
 permalink: /experience/
-author_profile: true
-redirect_from:
-  - /resume
+
+# table of contents
+toc: true
+toc_label: "Contents"
+toc_icon: "dna"
+toc_sticky: true
 ---
 
 **Isfahan University Machine Learning Laboratory**
@@ -15,7 +17,7 @@ redirect_from:
 * Faculty of Computer Engineering Islamic Azad University, Najafabad Branch
   <h4>Oct 2016 - Apr2017, Islamic Azad University, Najafabad Branch</h4>
 
-**Open Source Softwares Conference & Ubuntu 17.04 Release Party** 
+## **Open Source Softwares Conference & Ubuntu 17.04 Release Party** 
 * Speaker: "How to Prevent DOS & DDOS Attacks on Linux Servers"
   <h4> Jul 2017, University of Isfahan </h4>
 
@@ -26,7 +28,7 @@ redirect_from:
   <h4>Nov 2017 - Mar 2020, Esfahan, Iran</h4> <br>
   
 
-Work Experience
+## Work Experience
 =======
 
 **UI & UX Designer** 
