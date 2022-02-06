@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Mohammad.H Mohammadi"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Mohammad Hossein Mohammadi"
 description              : &description "personal description"
 url                      : https://mohammadimh76.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
