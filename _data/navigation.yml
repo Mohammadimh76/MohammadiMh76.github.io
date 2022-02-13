@@ -31,6 +31,9 @@ main:
   - title: "Patents"
     url: /patents/
     
+  - title: "Software"
+    url: /patents/
+    
   - title: "Publications"
     url: /publications/
     
@@ -39,9 +42,6 @@ main:
     
   - title: "Honors & Awards"
     url: /honors/
-    
-#  - title: "Skill"
-#    url: /cv/
     
   - title: "Contact"
     url: /contact/
