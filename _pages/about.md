@@ -25,9 +25,9 @@ My main research interests
 * Optimization Algorithm, Neural & NeuroFuzzy Network
 * Computer Vision, Signal and Image Processing
 
-Curriculum Vitae (CV)
+<!-- Curriculum Vitae (CV)
 ---
 {% include base_path %}
 
 To download my curriculum vitae in english you can click [here](../files/CV/CurriculumVitae.pdf).
-{: .notice--success}
+{: .notice--success} -->
