@@ -64,7 +64,7 @@ I am Biomedical Engineer from University of Isfahan. My research interests is No
   <img width="360" height="276" src="https://raw.githubusercontent.com/Mohammadimh76/Book_AStepByStepGuidetoPatentingInIran/main/Authors/MohammadHosseinMohammadi.jpeg">
 </p>
 
-Iam currently a Final-year BS.c student at the Department of Computer Engineering, Islamic Azad University, Najafabad Branch (IAUN) (Rank in CWUR) where I am a member of the Bioinformatics Laboratory (BL), advised by Prof. Mohammad Naderi Dehkordi. my research involves machine vision, deep learning, and neural networks. where I will complete my thesis on Accurate and Early Identification of Diabetes and it's Affecting Factors.
+I am Information Technology (IT) Engineer from Islamic Azad University, Najafabad Branch (IAUN) (Racked within the top 3 universities in Iran according to 2022 - 2023 CWUR Ranking). My research involves machine vision, deep learning, and neural networks. I completed my thesis on Semantic segmentation of breast cancer pathology images using the U-Net model.
 
 Prior to BL, I finished my Diploma - Mathematics and Physics in Sheikh Ansari Highschool, in September 2015. I tried to use my Diploma to build a solid bedrock for my future research. So in addition to taking many optional bachelor-level courses on math and computer science. I spent 6 months as an intern Programmer at the "CoTech" in Isfahan.
 
