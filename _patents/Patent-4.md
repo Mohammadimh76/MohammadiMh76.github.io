@@ -6,10 +6,10 @@ excerpt: 'Patent Number: ir 139850140003011312'
 date: 2021-04-21
 ---
 
-{% include base_path %}
+<!-- {% include base_path %}
 
 To download documents this patent you can click [here](../files/CV/CurriculumVitae.pdf).
-{: .notice--success}
+{: .notice--success} -->
 
 <b>Patent Number:</b> [ir 139850140003011312](www.googl.com) (With IP Iran)
 
