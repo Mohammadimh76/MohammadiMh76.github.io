@@ -11,7 +11,7 @@ date: 2021-04-21
 To download documents this patent you can click [here](../files/CV/CurriculumVitae.pdf).
 {: .notice--success} -->
 
-<b>Patent Number:</b> [ir 139850140003011312](www.googl.com) (With IP Iran)
+<b>Patent Number:</b> [ir 139850140003011312](www.googl.com)
 
 ## Summary
 Vision is one of the most critical special senses, not only because it plays an essential role in the external environment. If not treated in time (especially in childhood), many eye diseases cause blindness and cause irreparable problems for sick people. They will have many limitations in the individual and social life of the patients. However, early detection and diagnosis of diseases have always been critical, and one of the purposes of this invention is to identify heterochromia in infants. The preventive policy of this idea is essential to predict and identify diseases and underlying factors. The mechanism of this disease takes steps.<br>
