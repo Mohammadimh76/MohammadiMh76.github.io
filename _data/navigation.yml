@@ -31,8 +31,8 @@ main:
   - title: "Patents"
     url: /patents/
     
-#  - title: "Software"
-#    url: /patents/
+  - title: "Softwares"
+    url: /softwares/
     
   - title: "Publications"
     url: /publications/
