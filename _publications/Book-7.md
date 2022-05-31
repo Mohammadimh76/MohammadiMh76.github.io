@@ -62,55 +62,11 @@ Innovation is the use of new ideas drawn from creativity. It is the implementati
 
 ## Authors
 
-### The First: "Mohammad Hossein Mohammadi"
-
-<p align="center">
-  <img width="360" height="276" src="https://raw.githubusercontent.com/Mohammadimh76/Book_AStepByStepGuidetoPatentingInIran/main/Authors/MohammadHosseinMohammadi.jpeg">
-</p>
-
-I am Information Technology (IT) Engineer from Islamic Azad University, Najafabad Branch (IAUN) (Racked within the top 3 universities in Iran according to 2021 - 2022 CWUR Ranking). My research involves machine vision, deep learning, and neural networks. I completed my thesis on Semantic segmentation of breast cancer pathology images using the U-Net model.
-
-### My main research interests
-- Artificial Intelligence, Machine Learning
-- Optimization Algorithm, Neural & NeuroFuzzy Network
-- Computer Vision, Signal and Image Processing
-
-🌐 𝐏𝐞𝐫𝐬𝐨𝐧𝐚𝐥 𝐏𝐚𝐠𝐞 "𝐌𝐨𝐡𝐚𝐦𝐦𝐚𝐝 𝐇𝐨𝐬𝐬𝐞𝐢𝐧 𝐌𝐨𝐡𝐚𝐦𝐦𝐚𝐝𝐢" 👉 [mohammadimh76.github.io](https://mohammadimh76.github.io/)<br>
-📧 𝐄𝐦𝐚𝐢𝐥: m.h.mohammadimir2017@gmail.com
-
-============================================================================
-
-### The Second: "Ali Karimi"
-
-<p align="center">
-  <img width="320" height="320" src="https://raw.githubusercontent.com/Mohammadimh76/Book_AStepByStepGuidetoPatentingInIran/main/Authors/AliKarimi.jpeg">
-</p>
-
-Iam currently a second-year MS.c student at the Department of Electrical and Computer Engineering, University of Tehran (UT) where I am a member of the Multimedia Processing Laboratory (MPL), advised by Prof. Mohammad Ghanbari. my research involves machine vision, deep learning, and neural networks.
-
-Prior to MPL, I finished my BSc in Computer Engineering at the Department of Computer Engineering, Bu-Ali Sina University, in August 2018. I tried to use my bachelor's to build a solid bedrock for my future research. So in addition to taking many optional graduate-level courses on math and computer science. I spent a year as a Research Assistant at the Computer Networks Laboratory at the Bu-Ali Sina University where I completed my thesis on Evaluating and Improving the LoRa Protocol performance.
-
-🌐 𝐏𝐞𝐫𝐬𝐨𝐧𝐚𝐥 𝐏𝐚𝐠𝐞 "𝐀𝐥𝐢 𝐊𝐚𝐫𝐢𝐦𝐢" 👉 [alikarimi120.github.io](https://alikarimi120.github.io/)<br>
-📧 𝐄𝐦𝐚𝐢𝐥: alikarimi120@gmail.com 
-
-============================================================================
-
-### Third: "Seyed Yahya Moradi"
-
-<p align="center">
-  <img width="320" height="318" src="https://raw.githubusercontent.com/Mohammadimh76/Book_AStepByStepGuidetoPatentingInIran/main/Authors/SeyedYahyaMoradi.jpeg">
-</p>
-
-I am Biomedical Engineer from University of Isfahan. My research interests is Non-Invasive Brain Stimulation, Neuroscience, Brain Mapping & Connectivity, Biomedical AI & IOT, Biosignal Processing.
-
-- Brain stimulation techniques such as tDCS, tACS, tRNS, TMS, Theta-Burst Stimulation (TBS) and Magnetic Seizure Therapy (MST)<br>
-- Sleep, Plasticity, Perception, Vision, Navigation<br>
-- Q/EEG Decoding; Source Localization; Beamforming; Blind source separation<br>
-- Causal Inference; Big Data; Unsupervised & Online learning; Expert System<br>
-- Chaos and Fractal Theory<br>
-
-🌐 𝐏𝐞𝐫𝐬𝐨𝐧𝐚𝐥 𝐏𝐚𝐠𝐞 "𝐒𝐞𝐲𝐞𝐝 𝐘𝐚𝐡𝐲𝐚 𝐌𝐨𝐫𝐚𝐝𝐢" 👉 [symoradi.website2.me](http://symoradi.website2.me/)<br>
-📧 𝐄𝐦𝐚𝐢𝐥: s.yahyamoradi@yahoo.com 
+|  Order  | Pic            | Name   |    Information    |
+| --------    | --------         | ------ | -----------|
+| 1    | <img width="150" height="150" src='/images/Profile.png'>    | <b>Mohammad Hossein Mohammadi</b>   | 1. <a href="http://mohammadimh76.github.io/" target="_blank">Personal Website</a> <br> 2. <a href="https://www.linkedin.com/in/mohammadimh76/" target="_blank">LinkedIn</a> <br> 3. M.H.Mohammadimir2017@gmail.com              | 
+| 2    | <img width="150" height="150" src='/images/AliKarimi.png'>    | <b>Ali Karimi</b>  | 1. <a href="https://alikarimi120.github.io/" target="_blank">Personal Website</a> <br> 2. <a href="https://www.linkedin.com/in/alikarimi120/" target="_blank">LinkedIn</a> <br> 3. AliKarimi120@gmail.com       |
+| 3    | <img width="150" height="150" src='/images/SeyedYahyaMoradi.png'>    | <b>Seyed Yahya Moradi</b>  | 1. <a href="https://about.me/smoradi" target="_blank">Personal Website</a> <br> 2. <a href="https://www.linkedin.com/in/seyed-yahya-moradi-39138685/" target="_blank">LinkedIn</a> <br> 3. S.YahyaMoradi@yahoo.com       |
 
 ---
 
