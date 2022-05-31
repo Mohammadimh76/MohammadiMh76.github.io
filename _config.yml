@@ -190,6 +190,9 @@ collections:
   patents:
     output: true
     permalink: /:collection/:path/
+  softwares:
+    output: true
+    permalink: /:collection/:path/
   articles:
     output: true
     permalink: /:collection/:path/
@@ -268,6 +271,15 @@ defaults:
   - scope:
       path: ""
       type: patents
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _softwares
+  - scope:
+      path: ""
+      type: softwares
     values:
       layout: single
       author_profile: true
