@@ -296,51 +296,12 @@ A hacker who intends to gain access to an organization's network is different fr
 
 ## Authors
 
-### The First: "Mohammad Hossein Mohammadi"
+|  Order  | Pic            | Name   |    Information    |
+| --------    | --------         | ------ | -----------|
+| The First  | <img width="150" height="150" src='/images/Profile.png'>    | <b>Mohammad Hossein Mohammadi</b>   | 1. <a href="http://mohammadimh76.github.io/" target="_blank">Personal Website</a> <br> 2. <a href="https://www.linkedin.com/in/mohammadimh76/" target="_blank">LinkedIn</a> <br> 3. M.H.Mohammadimir2017@gmail.com              | 
+| The Second   | <img width="150" height="150" src='/images/SeyedYahyaMoradi.png'>    | <b>Seyed Yahya Moradi</b>  | 1. <a href="https://about.me/smoradi" target="_blank">Personal Website</a> <br> 2. <a href="https://www.linkedin.com/in/seyed-yahya-moradi-39138685/" target="_blank">LinkedIn</a> <br> 3. S.YahyaMoradi@yahoo.com       |
+| Third   | <img width="150" height="200" src='/images/MiladSiampour.png'>    | <b>Milad Siampour</b>  | 1. <a href="https://www.linkedin.com/in/milad-siampour/" target="_blank">LinkedIn</a> <br> 2. Miladit90@gmail.com       |
 
-<p align="center">
-  <img width="360" height="276" src="https://raw.githubusercontent.com/Mohammadimh76/Book_CEH-Certified-Ethical-Hacker-/main/Authors/MohammadHosseinMohammadi.jpeg">
-</p>
-
-I am Information Technology (IT) Engineer from Islamic Azad University, Najafabad Branch (IAUN) (Racked within the top 3 universities in Iran according to 2021 - 2022 CWUR Ranking). My research involves machine vision, deep learning, and neural networks. I completed my thesis on Semantic segmentation of breast cancer pathology images using the U-Net model.
-
-#### My main research interests
-- Artificial Intelligence, Machine Learning
-- Optimization Algorithm, Neural & NeuroFuzzy Network
-- Computer Vision, Signal and Image Processing
-
-🌐 𝐏𝐞𝐫𝐬𝐨𝐧𝐚𝐥 𝐏𝐚𝐠𝐞 "𝐌𝐨𝐡𝐚𝐦𝐦𝐚𝐝 𝐇𝐨𝐬𝐬𝐞𝐢𝐧 𝐌𝐨𝐡𝐚𝐦𝐦𝐚𝐝𝐢" 👉 [mohammadimh76.github.io](https://mohammadimh76.github.io/)<br>
-📧 𝐄𝐦𝐚𝐢𝐥: m.h.mohammadimir2017@gmail.com
-
-============================================================================
-
-### The Second: "Seyed Yahya Moradi"
-
-<p align="center">
-  <img width="320" height="318" src="https://raw.githubusercontent.com/Mohammadimh76/Book_CEH-Certified-Ethical-Hacker-/main/Authors/SeyedYahyaMoradi.jpeg">
-</p>
-
-I am Biomedical Engineer from University of Isfahan. My research interests is Non-Invasive Brain Stimulation, Neuroscience, Brain Mapping & Connectivity, Biomedical AI & IOT, Biosignal Processing.
-
-- Brain stimulation techniques such as tDCS, tACS, tRNS, TMS, Theta-Burst Stimulation (TBS) and Magnetic Seizure Therapy (MST)<br>
-- Sleep, Plasticity, Perception, Vision, Navigation<br>
-- Q/EEG Decoding; Source Localization; Beamforming; Blind source separation<br>
-- Causal Inference; Big Data; Unsupervised & Online learning; Expert System<br>
-- Chaos and Fractal Theory<br>
-
-🌐 𝐏𝐞𝐫𝐬𝐨𝐧𝐚𝐥 𝐏𝐚𝐠𝐞 "𝐒𝐞𝐲𝐞𝐝 𝐘𝐚𝐡𝐲𝐚 𝐌𝐨𝐫𝐚𝐝𝐢" 👉 [symoradi.website2.me](http://symoradi.website2.me/)<br>
-📧 𝐄𝐦𝐚𝐢𝐥: s.yahyamoradi@yahoo.com 
-
-============================================================================
-
-### Third: "Milad Siampour"
-
-<p align="center">
-  <img width="320" height="426" src="https://raw.githubusercontent.com/Mohammadimh76/Book_CEH-Certified-Ethical-Hacker-/main/Authors/MiladSiampour.jpg">
-</p>
-
-
-📧 𝐄𝐦𝐚𝐢𝐥: miladit90@gmail.com 
 
 
 
