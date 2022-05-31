@@ -12,87 +12,41 @@ date: 2021-03-01
 # 🚩Table of Contents
 
 * Introduction
-* Dependencies](#dependencies)
-* Basic Usage](#basic-usage)
-* Data Preparation (optional)](#data-preparation-optional)
-* Algorithm](#algorithm)
-* Example Output](#example-output)
-* Conclusion](#conclusion) 
-* Contribution](#contribution)
-* Citation](#citation)
+* Dependencies
+* Basic Usage
+* Data Preparation (optional)
+* Algorithm
+* Example Output
+* Conclusion
+* Contribution
+* Citation
 * Licence
 * Support
 * Contact
+* Author
 
-</div>
 
-
-<main>
-
-   <!-- Introduction -->
-<article id="introduction">
 
 ## Introduction
 
-</article>
-  
-  
-  
-   <!-- Dependencies -->
-<article id="dependencies">
 
 ## Dependencies
 
-</article>
-  
-  
-  
-  <!-- Basic Usage -->
-<article id="basic-usage">
 
 ## Basic Usage
 
-</article>
-  
-  
-  
-  <!-- Data Preparation (optional) -->
-<article id="data-preparation-optional">
 
 ## Data Preparation (optional)
 
-</article>  
-  
-  
-  
-  <!-- Algorithm -->
-<article id="algorithm">
 
 ## Algorithm
 
-</article>  
-  
-  
-  
-  <!-- Example Output -->
-<article id="example-output">
 
 ## Example Output
 
-</article>    
-  
-  
-  
-  <!-- Conclusion -->
-<article id="conclusion">
 
 ## Conclusion
 
-</article>   
-  
-  
-  <!-- Contribution -->
-<article id="contribution">
 
 ## 🤝Contribution
    
@@ -103,11 +57,6 @@ date: 2021-03-01
 
    Contributors looking to do something a bit more challenging, before opening a pull request, please join our community chat (Request an email) or start a GitHub discussion to get early feedback, discuss best ways to tackle the problem and ensure there is no work duplication.
 
-</article>    
-  
-  
-  <!-- Citation -->
-<article id="citation">
 
 ## 📚Citation
    
@@ -125,32 +74,16 @@ date: 2021-03-01
    doi={10.1109/CVPR.2001.990517}}
 }
 ```
-   
-   
-   
-   
    Also, if you use Emotion Recognition using CNN in your GitHub projects, please add Emotion Recognition using CNN in the `requirements.txt`.
 
-
-
-</article>   
-  
-  
-  <!-- Licence  -->
-<article id="licence">
 
 ## 📝Licence 
    
    This repository is available under the MIT license. See the <b>LICENSE</b> file for more info.
 
-
-</article>
    
 ---
-  
-  
-  <!-- Support -->
-<article id="support">
+
 
 ##    🙏Support
    
@@ -162,11 +95,6 @@ date: 2021-03-01
 
 > USDT: <b>TU9PyDJ8gcQCUWPvfmoa2gkFb4SKTwFBGN</b> <br>
 
-</article>      
-  
-  
-  <!-- Contact   -->
-<article id="contact">
 
 ## 📧Contact
    
@@ -183,11 +111,12 @@ date: 2021-03-01
    I'm available on Monday – Friday – 10am to 5pm, except on holidays.
 
 
-</article>
+## Author
    
-   
-  
-</main>
+|<p align="center"><img width="150" height="150" src="https://github.com/Mohammadimh76/MohammadiMh76.github.io/blob/master/images/Profile.png"></p>|
+|----------|
+|[Mohammad Hossein Mohammmadi](http://mohammadimh76.github.io/)| 
+
 
 
 
