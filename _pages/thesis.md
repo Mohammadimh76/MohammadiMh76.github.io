@@ -1,18 +1,10 @@
 ---
-permalink: /
-
-# table of contents
-toc: true
-toc_label: "Contents"
-toc_icon: "dna"
-toc_sticky: true
-
+layout: archive
 title: "Thesis BS.c"
-excerpt: "Thesis BS.c"
+permalink: /thesis/
 author_profile: true
-redirect_from: 
-  - /thesis/
-  - /thesis.html
+redirect_from:
+  - /thesis
 ---
 
 Title: Semantic segmentation of breast cancer pathology images using the U-Net model<br>
