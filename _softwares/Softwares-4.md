@@ -13,7 +13,9 @@ date: 2023-01-1
 
 | Pic            | Name   |    Information    |
 | --------         | ------ | -----------|
-| <img width="150" height="150" src='/images/Profile.png'>    | <b>Mohammad Hossein Mohammadi</b>   | 1. [Personal Website](http://mohammadimh76.github.io/) <br> 2. [LinkedIn](https://www.linkedin.com/in/mohammadimh76/) <br> 3. [M.H.Mohammadimir2017@gmail.com](M.H.Mohammadimir2017@gmail.com)                          | 
-| <img width="150" height="150" src='/images/AliKarimi.png'>    | <b>Ali Karimi</b>  | 1. [Personal Website](https://alikarimi120.github.io/) <br> 2. [LinkedIn](https://www.linkedin.com/in/alikarimi120/) <br> 3. [AliKarimi120@gmail.com](AliKarimi120@gmail.com)                         |
+| <img width="150" height="150" src='/images/Profile.png'>    | <b>Mohammad Hossein Mohammadi</b>   | 1. [Personal Website](http://mohammadimh76.github.io/) <br> 2. [LinkedIn](https://www.linkedin.com/in/mohammadimh76/) <br> 3. M.H.Mohammadimir2017@gmail.com                        | 
+| <img width="150" height="150" src='/images/AliKarimi.png'>    | <b>Ali Karimi</b>  | 1. <a href="https://alikarimi120.github.io/" target="_blank">Personal Website</a> <br> 2. [LinkedIn](https://www.linkedin.com/in/alikarimi120/) <br> 3. AliKarimi120@gmail.com                       |
 
 
+
+[Personal Website](https://alikarimi120.github.io/)
