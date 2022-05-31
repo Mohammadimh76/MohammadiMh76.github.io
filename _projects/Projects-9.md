@@ -8,8 +8,7 @@ date: 2021-03-01
 
 <br>
 
-   **[Github project link!](https://github.com/Mohammadimh76/Emotion_Recognition)**
-   {: .notice}
+### [Github project link!](https://github.com/Mohammadimh76/Emotion_Recognition)
 
 <br>
 
@@ -93,8 +92,7 @@ date: 2021-03-01
    
    There are many ways to support a project - starring⭐️ the GitHub repo is just one ☺️🙏<br>
    
-   **[Github project link!](https://github.com/Mohammadimh76/Emotion_Recognition)**
-   {: .notice}
+   ### [Github project link!](https://github.com/Mohammadimh76/Emotion_Recognition)
    
    If you like this repository, consider making a donation to the developer. Thank you!
    
@@ -120,9 +118,9 @@ date: 2021-03-01
 
 ## Author
 
-| <img width="150" height="150" src='/images/Profile.png'>           |
-| --------         |
-| [Mohammad Hossein Mohammmadi](http://mohammadimh76.github.io/)   | 
+<img width="150" height="150" src='/images/Profile.png'>
+
+[Mohammad Hossein Mohammmadi](http://mohammadimh76.github.io/)
 
 
 
