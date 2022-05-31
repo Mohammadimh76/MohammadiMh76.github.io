@@ -89,6 +89,9 @@ date: 2021-03-01
    
    There are many ways to support a project - starring⭐️ the GitHub repo is just one ☺️🙏<br>
    
+   **[Github project link!](https://github.com/Mohammadimh76/Emotion_Recognition)**
+   {: .notice}
+   
    If you like this repository, consider making a donation to the developer. Thank you!
    
 > BTC: <b>bc1qjvsx3k4kkw6ccm6l06tfyx4ld9mmunlg52yqug</b> <br>
@@ -98,7 +101,7 @@ date: 2021-03-01
 
 ## 📧Contact
    
-   If you need to contact me for any reason you can send me an email here: 
+   If you need to contact me for any reason you can send me an email here: <br>
    `Mohammadimir2017 [at] gmail (dot) com` <br>
    
    <i>Please mention the name of the repository in the subject line of the email</i> <br>
@@ -107,15 +110,15 @@ date: 2021-03-01
    
    > <b>Personal Website:</b> [Mohammadimh76.github.io](https://mohammadimh76.github.io/)<br>
    
-  ### 🔻Operation Time (Based on the time of [Denmark](https://time.is/Denmark))
+  ### 🔻Operation Time (Based on the time of [Denmark](https://time.is/Denmark))<br>
    I'm available on Monday – Friday – 10am to 5pm, except on holidays.
 
 
 ## Author
-   
-|<p align="center"><img width="150" height="150" src="https://github.com/Mohammadimh76/MohammadiMh76.github.io/blob/master/images/Profile.png"></p>|
-|----------|
-|[Mohammad Hossein Mohammmadi](http://mohammadimh76.github.io/)| 
+
+| <img width="150" height="150" src='/images/Profile.png'>           |
+| --------         |
+| [Mohammad Hossein Mohammmadi](http://mohammadimh76.github.io/)   | 
 
 
 
