@@ -123,7 +123,7 @@ date: 2021-03-01
    > <b>Personal Website:</b> [Mohammadimh76.github.io](https://mohammadimh76.github.io/)<br>
    
    
-  ### 🔻Operation Time (Based on the time of [Denmark](https://time.is/Denmark))<br>
+### 🔻Operation Time (Based on the time of [Denmark](https://time.is/Denmark))<br>
    I'm available on Monday – Friday – 10am to 5pm, except on holidays.
 
 <br>
