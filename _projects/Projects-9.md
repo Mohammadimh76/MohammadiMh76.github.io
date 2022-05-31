@@ -8,9 +8,8 @@ date: 2021-03-01
 
 <br>
 
-### [Github project link!](https://github.com/Mohammadimh76/Emotion_Recognition)
+### [⭐️Github project link!⭐️](https://github.com/Mohammadimh76/Emotion_Recognition)
 
-<br>
 
 # 🚩Table of Contents
 
@@ -28,28 +27,36 @@ date: 2021-03-01
 * Contact
 * Author
 
+<br>
 
 
 ## Introduction
 
+<br>
 
 ## Dependencies
 
+<br>
 
 ## Basic Usage
 
+<br>
 
 ## Data Preparation (optional)
 
+<br>
 
 ## Algorithm
 
+<br>
 
 ## Example Output
 
+<br>
 
 ## Conclusion
 
+<br>
 
 ## 🤝Contribution
    
@@ -60,6 +67,7 @@ date: 2021-03-01
 
    Contributors looking to do something a bit more challenging, before opening a pull request, please join our community chat (Request an email) or start a GitHub discussion to get early feedback, discuss best ways to tackle the problem and ensure there is no work duplication.
 
+<br>
 
 ## 📚Citation
    
@@ -79,20 +87,21 @@ date: 2021-03-01
 ```
    Also, if you use Emotion Recognition using CNN in your GitHub projects, please add Emotion Recognition using CNN in the `requirements.txt`.
 
+<br>
 
 ## 📝Licence 
    
    This repository is available under the MIT license. See the <b>LICENSE</b> file for more info.
 
    
----
+<br>
 
 
 ##    🙏Support
    
    There are many ways to support a project - starring⭐️ the GitHub repo is just one ☺️🙏<br>
    
-   ### [Github project link!](https://github.com/Mohammadimh76/Emotion_Recognition)
+   [👉⭐️Github project link!⭐️👈](https://github.com/Mohammadimh76/Emotion_Recognition)
    
    If you like this repository, consider making a donation to the developer. Thank you!
    
@@ -100,6 +109,7 @@ date: 2021-03-01
 
 > USDT: <b>TU9PyDJ8gcQCUWPvfmoa2gkFb4SKTwFBGN</b> <br>
 
+<br>
 
 ## 📧Contact
    
@@ -116,6 +126,7 @@ date: 2021-03-01
   ### 🔻Operation Time (Based on the time of [Denmark](https://time.is/Denmark))<br>
    I'm available on Monday – Friday – 10am to 5pm, except on holidays.
 
+<br>
 
 ## Author
 
