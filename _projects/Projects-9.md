@@ -2,7 +2,7 @@
 title: "Emotion Recognition using Convolutional Neural Network"
 collection: projects
 permalink: /projects/Projects-9
-excerpt: '(Keras,Pandas,Numpy,Sklearn)'
+excerpt: '[⭐️Github project link!⭐️](https://github.com/Mohammadimh76/Emotion_Recognition)'
 date: 2021-03-01
 ---
 
