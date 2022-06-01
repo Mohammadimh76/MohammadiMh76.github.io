@@ -70,6 +70,8 @@ date: 2021-03-01
 
 <br>
 
+<!--
+
 ## 📚Citation
    
    Please cite deepface in your publications if it helps your research. Here are BibTeX entries:
@@ -89,6 +91,8 @@ date: 2021-03-01
    Also, if you use Emotion Recognition using CNN in your GitHub projects, please add Emotion Recognition using CNN in the `requirements.txt`.
 
 <br>
+
+-->
 
 ## 📝Licence 
    
