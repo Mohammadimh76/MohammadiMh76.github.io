@@ -14,8 +14,8 @@ date: 2021-04-03
 
 | File | Download Link | File | Download Link |
 | -------- | ------ | -----------| -----------|
-| Description | [Download](www.google.com) | Claims | [Download](www.google.com) |
-| Map | [Download](www.google.com) | Arbitration Report | [Download](www.google.com) |
+| Description | [Download](../files/Patents/Patent-4/Pr/Description/Description-P4-Pr.pdf) | Claims | [Download](../files/Patents/Patent-4/Pr/Claims/Claims-P4-Pr.pdf) |
+| Map | [Download](../files/Patents/Patent-4/Pr/Map/Map-P4-Pr.pdf) | Arbitration Report | [Download](../files/Patents/Patent-4/Pr/ArbitrationReport/ArbitrationReport-P4-Pr.pdf) |
 
 
 
@@ -23,8 +23,10 @@ date: 2021-04-03
 
 | File | Download Link | File | Download Link |
 | -------- | ------ | -----------| -----------|
-| Description | [Download](www.google.com) | Claims | [Download](www.google.com) |
-| Map | [Download](www.google.com) | Arbitration Report | [Download](www.google.com) |
+| File | Download Link | File | Download Link |
+| -------- | ------ | -----------| -----------|
+| Description | [Download](../files/Patents/Patent-4/En/Description/Description-P4-En.pdf) | Claims | [Download](../files/Patents/Patent-4/En/Claims/Claims-P4-En.pdf) |
+| Map | [Download](../files/Patents/Patent-4/En/Map/Map-P4-En.pdf) | Arbitration Report | [Download](../files/Patents/Patent-4/En/ArbitrationReport/ArbitrationReport-P4-En.pdf) |
 
 ---
 
