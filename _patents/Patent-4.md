@@ -25,8 +25,8 @@ date: 2021-04-03
 | -------- | ------ | -----------| -----------|
 | File | Download Link | File | Download Link |
 | -------- | ------ | -----------| -----------|
-| Description | [Download](../files/Patents/Patent-4/En/Description/Description-P4-En.pdf) | Claims | [Download](../files/Patents/Patent-4/En/Claims/Claims-P4-En.pdf) |
-| Map | [Download](../files/Patents/Patent-4/En/Map/Map-P4-En.pdf) | Arbitration Report | [Download](../files/Patents/Patent-4/En/ArbitrationReport/ArbitrationReport-P4-En.pdf) |
+| Description | Download (coming soon!) | Claims | Download (coming soon!) |
+| Map | Download (coming soon!) | Arbitration Report | Download (coming soon!) |
 
 ---
 
