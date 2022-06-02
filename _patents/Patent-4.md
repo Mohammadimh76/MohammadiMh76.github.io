@@ -3,15 +3,31 @@ title: "The system for early detection of Heterochromia disease in the neonates"
 collection: patents
 permalink: /patents/Patent-4
 excerpt: 'Patent Number: ir 139850140003011312'
-date: 2021-04-21
+date: 2021-04-03
 ---
 
-<!-- {% include base_path %}
+<b>Patent Number (Open this link just IP Iran): </b> [ir 139850140003011312]([www.googl.com](https://ipm.ssaa.ir/Search-Result?page=1&DecNo=139850140003011312&RN=104189))
 
-To download documents this patent you can click [here](../files/CV/CurriculumVitae.pdf).
-{: .notice--success} -->
+---
 
-<b>Patent Number:</b> [ir 139850140003011312](www.googl.com)
+### Persian version
+
+| File | Download Link | File | Download Link |
+| -------- | ------ | -----------| -----------|
+| Description | [Download](www.google.com) | Claims | [Download](www.google.com) |
+| Map | [Download](www.google.com) | Arbitration Report | [Download](www.google.com) |
+
+
+
+### English version
+
+| File | Download Link | File | Download Link |
+| -------- | ------ | -----------| -----------|
+| Description | [Download](www.google.com) | Claims | [Download](www.google.com) |
+| Map | [Download](www.google.com) | Arbitration Report | [Download](www.google.com) |
+
+---
+
 
 ## Summary
 Vision is one of the most critical special senses, not only because it plays an essential role in the external environment. If not treated in time (especially in childhood), many eye diseases cause blindness and cause irreparable problems for sick people. They will have many limitations in the individual and social life of the patients. However, early detection and diagnosis of diseases have always been critical, and one of the purposes of this invention is to identify heterochromia in infants. The preventive policy of this idea is essential to predict and identify diseases and underlying factors. The mechanism of this disease takes steps.<br>
