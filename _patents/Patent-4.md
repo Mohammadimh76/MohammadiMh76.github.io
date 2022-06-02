@@ -6,7 +6,7 @@ excerpt: 'Patent Number: ir 139850140003011312'
 date: 2021-04-03
 ---
 
-<b>Patent Number (Open this link just IP Iran): </b> [ir 139850140003011312]([www.googl.com](https://ipm.ssaa.ir/Search-Result?page=1&DecNo=139850140003011312&RN=104189))
+<b>Patent Number (Open this link just IP Iran): </b> [ir 139850140003011312](https://ipm.ssaa.ir/Search-Result?page=1&DecNo=139850140003011312&RN=104189)
 
 ---
 
