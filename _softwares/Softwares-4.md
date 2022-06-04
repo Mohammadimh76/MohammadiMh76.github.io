@@ -1,5 +1,5 @@
 ---
-title: "Soccer Game Video Summarization Software, (Under Construction!)"
+title: "Soccer Game Video Summarization Software (Under Construction!)"
 collection: softwares
 permalink: /softwares/softwares-4
 excerpt: 'M.H.Mohammadi, A.Karimi [(Demo)](https://mohammadimh76.github.io//softwares/softwares-4)'
