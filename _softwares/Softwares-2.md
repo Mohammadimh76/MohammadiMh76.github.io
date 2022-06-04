@@ -1,5 +1,5 @@
 ---
-title: "SoccerVideoHospitalPatients, (Under Construction!)"
+title: "Patients In Hospital Beds Video Summarization Software, (Under Construction!)"
 collection: softwares
 permalink: /softwares/softwares-2
 excerpt: 'M.H.Mohammadi, A.Karimi, S.Y.Moradi [(Demo)](https://mohammadimh76.github.io//softwares/softwares-2)'
