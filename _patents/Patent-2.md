@@ -6,6 +6,41 @@ excerpt: 'Patent Number: ir 139850140003011094'
 date: 2020-02-27
 ---
 
+<b>Patent Number (Open this link just with Iran IP): </b> <a href="https://ipm.ssaa.ir/Search-Result?page=1&DecNo=139850140003011094&RN=102171" target="_blank">ir 139850140003011094</a>
+
+---
+
+### Information about the invention
+
+| Title of Invention | Energy Waste Reduction System based on prediction of people's presence and working time in industries and medical centers |
+| -------- | ------ | 
+| Declaration number | <a href="https://ipm.ssaa.ir/Search-Result?page=1&DecNo=139850140003011094&RN=102171" target="_blank">139850140003011094</a> |
+| Registration number | 102171 |
+| Date of registration of the declaration | 2020-02-27 |
+| Name of Owner/Owners | <a href="https://about.me/smoradi" target="_blank">Seyed Yahya Moradi</a> - <a href="http://mohammadimh76.github.io/" target="_blank">Mohammad Hossein Mohammadi</a> - Abozar Anvari |
+| Name of Inventor/Inventors | <a href="https://about.me/smoradi" target="_blank">Seyed Yahya Moradi</a> - <a href="http://mohammadimh76.github.io/" target="_blank">Mohammad Hossein Mohammadi</a> - Abozar Anvari|
+| International classification | G05F 1/07 <br> G06C <br> G06F 8/00 |
+
+---
+
+## Documents
+
+### Persian version
+
+| File | Download Link | File | Download Link |
+| -------- | ------ | -----------| -----------|
+| Description | <a href="../files/Patents/Patent-2/Pr/Description/Description-P2-Pr.pdf" target="_blank">Download</a> | Claims | <a href="../files/Patents/Patent-2/Pr/Claims/Claims-P2-Pr.pdf" target="_blank">Download</a> |
+| Map | <a href="../files/Patents/Patent-2/Pr/Map/Map-P2-Pr.pdf" target="_blank">Download</a> | Arbitration Report | <a href="../files/Patents/Patent-2/Pr/ArbitrationReport/ArbitrationReport-P2-Pr.pdf" target="_blank">Download</a> |
+
+
+### English version
+
+| File | Download Link | File | Download Link |
+| -------- | ------ | -----------| -----------|
+| Description | Download (coming soon!) | Claims | Download (coming soon!) |
+| Map | Download (coming soon!) | Arbitration Report | Download (coming soon!) |
+
+
 ---
 
 ### <i>Contact the Inventors for more information</i>
