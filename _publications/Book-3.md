@@ -15,13 +15,13 @@ venue: 'Arna'
 | Information Book  |   |
 |-----------|--------------------|
 |  <b>Book Name</b>   |   Principles Of Image Compression in The Medical and Aerial Image By MATLAB Software  |
-| <b>Authors (Translators)</b>    |   A.Salehi, S.Y.Moradi, M.H.Mohammadi, M.Radaei|
+| <b>Authors (Translators)</b>    |   <a href="https://www.linkedin.com/in/aram-salehi/" target="_blank">A.Salehi</a>, <a href="https://about.me/smoradi" target="_blank">S.Y.Moradi</a>, <a href="http://mohammadimh76.github.io/" target="_blank"><b>M.H.Mohammadi</b></a>, M.Radaei|
 | <b>language</b>    |  Persian   |
 | <b>Printed in the</b>    |  IRAN   |
-| <b>Publisher</b>    |   [Arna](http://arnapub.com/)  |
+| <b>Publisher</b>    |   <a href="http://arnapub.com/" target="_blank">Arna</a>  |
 | <b>First Printing Edition</b>    |   Jan,2021  |
 | <b>Print Length</b>    |  128   |
-| <b>[ISBN](http://opac.nlai.ir/opac-prod/search/briefListSearch.do?command=FULL_VIEW&id=7431044&pageStatus=2&sortKeyValue1=sortkey_title&sortKeyValue2=sortkey_author)</b>    |  [978-622-291-001-3](http://opac.nlai.ir/opac-prod/search/briefListSearch.do?command=FULL_VIEW&id=7431044&pageStatus=2&sortKeyValue1=sortkey_title&sortKeyValue2=sortkey_author)‬   |
+| <b>ISBN</b>    |  <a href="http://opac.nlai.ir/opac-prod/search/briefListSearch.do?command=FULL_VIEW&id=7431044&pageStatus=2&sortKeyValue1=sortkey_title&sortKeyValue2=sortkey_author" target="_blank">978-622-291-001-3</a>  |
 
 
 
@@ -108,7 +108,7 @@ In this research, an algorithm based on wavelet functions was performed to compr
 
 👇Click on the link below to see the E-Book Demo!👇😉
 
-## [(E-Book Demo)](https://github.com/Mohammadimh76/Book_PrinciplesOfImageCompressionInTheMedicalAndAerialImageByMatlabSoftware/blob/main/E-Book_Demo/E-Book_Demo.pdf)
+## <a href="https://github.com/Mohammadimh76/Book_PrinciplesOfImageCompressionInTheMedicalAndAerialImageByMatlabSoftware/blob/main/E-Book_Demo/E-Book_Demo.pdf" target="_blank">(E-Book Demo)</a>
 
 ---
 
