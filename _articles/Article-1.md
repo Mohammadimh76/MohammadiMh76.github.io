@@ -20,6 +20,8 @@ In the present study, a computer model in the Simulink environment was designed 
 
 ---
 
+### [Download paper here](../files/Article/TeleMed.pdf)
+
 <!-- {% include base_path %}
 
 To download this article you can click [here](../files/CV/CurriculumVitae.pdf).
