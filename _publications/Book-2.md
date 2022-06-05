@@ -10,18 +10,18 @@ venue: 'Arna'
 <p align="center">
   <img width="460" height="300" src='/images/IOT_Mockup.jpg'>
 </p>
-
+  
 
 | Front Book Cover  | Back Book Cover  |
 |-----------|--------------------|
 |  <b>Book Name</b>   |   IoT (Internet of Things)  |
-| <b>Authors</b>    | S.Y.Moradi, M.H.Mohammadi|
+| <b>Authors</b>    | <a href="https://about.me/smoradi" target="_blank">S.Y.Moradi</a>, <a href="http://mohammadimh76.github.io/" target="_blank"><b>M.H.Mohammadi</b></a>|
 | <b>language</b>    |  Persian   |
 | <b>Printed in the</b>    |  IRAN   |
-| <b>Publisher</b>    |   [Arna](http://arnapub.com/)  |
+| <b>Publisher</b>    |   <a href="http://arnapub.com/" target="_blank">Arna</a>  |
 | <b>First Printing Edition</b>    |   Mar,2021  |
 | <b>Print Length</b>    |  194   |
-| <b>[ISBN](http://opac.nlai.ir/opac-prod/search/briefListSearch.do?command=FULL_VIEW&id=7545447&pageStatus=2&sortKeyValue1=sortkey_title&sortKeyValue2=sortkey_author)</b>    |  [978-622-2910-14-3](http://opac.nlai.ir/opac-prod/search/briefListSearch.do?command=FULL_VIEW&id=7545447&pageStatus=2&sortKeyValue1=sortkey_title&sortKeyValue2=sortkey_author)‬   |
+| <b>ISBN</b>    |  <a href="http://opac.nlai.ir/opac-prod/search/briefListSearch.do?command=FULL_VIEW&id=7545447&pageStatus=2&sortKeyValue1=sortkey_title&sortKeyValue2=sortkey_author" target="_blank">978-622-2910-14-3</a>‬   |
 
 
 ## 〽️Introduction:
@@ -109,8 +109,6 @@ Examples of IoT projects
 
 ## Authors
 
-## Authors
-
 |  Order  | Pic            | Name   |    Information    |
 | --------    | --------         | ------ | -----------|
 | The First   | <img width="150" height="150" src='/images/SeyedYahyaMoradi.png'>    | <b>Seyed Yahya Moradi</b>  | 1. <a href="https://about.me/smoradi" target="_blank">Personal Website</a> <br> 2. <a href="https://www.linkedin.com/in/seyed-yahya-moradi-39138685/" target="_blank">LinkedIn</a> <br> 3. S.YahyaMoradi@yahoo.com       |
@@ -120,7 +118,8 @@ Examples of IoT projects
 
 👇Click on the link below to see the E-Book Demo!👇😉
 
-## [(E-Book Demo)](https://github.com/Mohammadimh76/Book_IOT-InternetOfThings/blob/main/E-Book_Demo/E-Book_Demo.pdf)
+## <a href="https://github.com/Mohammadimh76/Book_IOT-InternetOfThings/blob/main/E-Book_Demo/E-Book_Demo.pdf" target="_blank">(E-Book Demo)</a>
+
 
 ---
 
