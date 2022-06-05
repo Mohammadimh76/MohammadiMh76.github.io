@@ -21,9 +21,6 @@ Communication technology makes it possible to provide medical services to center
 
 ### <a href="../files/Article/TeleMedCoference.pdf" target="_blank">Download paper here</a>
 
-{% include base_path %}
 
-To download this article you can click [here](../files/CV/CurriculumVitae.pdf).
-{: .notice--success}
  
  
