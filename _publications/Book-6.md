@@ -15,10 +15,10 @@ venue: 'Arna'
 | Front Book Cover  | Back Book Cover  |
 |-----------|--------------------|
 |  <b>Book Name</b>   |   ArtificialIntelligence  |
-| <b>Authors</b>    |   M.H.Mohammadi, S.Y.Moradi, M.Mohammadi |
+| <b>Authors</b>    |   <a href="http://mohammadimh76.github.io/" target="_blank"><b>M.H.Mohammadi</b></a>, <a href="https://about.me/smoradi" target="_blank">S.Y.Moradi</a>, <a href="https://mmohammadi4820.github.io/" target="_blank"><b>M.Mohammadi</b></a> |
 | <b>language</b>    |  Persian   |
 | <b>Printed in the</b>    |  IRAN   |
-| <b>Publisher</b>    |   Arna  |
+| <b>Publisher</b>    |   <a href="http://arnapub.com/" target="_blank">Arna</a>  |
 | <b>First Printing Edition</b>    |   Jun 2021  |
 | <b>Print Length</b>    |  243   |
 | <b>ISBN</b>    |  978-622-291-049-5‬‬   |
