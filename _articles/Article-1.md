@@ -20,7 +20,9 @@ In the present study, a computer model in the Simulink environment was designed 
 
 ---
 
-### [Download paper here](../files/Article/TeleMed.pdf)
+<!-- ### [Download paper here](../files/Article/TeleMed.pdf) -->
+
+### <a href="../files/Article/TeleMed.pdf" target="_blank">Download paper here</a>
 
 <!-- {% include base_path %}
 
