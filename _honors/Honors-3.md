@@ -6,6 +6,10 @@ excerpt: 'Honor description 2nd Team Rank, 7th Mobile Programming Marathon along
 date: 2019-09-19
 ---
 
+### <a href="http://mpm.sharif.ir/mpm7-2/" target="_blank">🌐 See Results</a>
+
+<br>
+
 <p align="center">
   <img width="600" height="337" src='/images/7th-Marathon-1.jpg'>
 </p>
@@ -66,4 +70,6 @@ The competition was conducted with the following schedule.<br>
   <img width="350" height="196" src='/images/7th-Marathon-5.jpg'>
 </p>
 
-⭕️ [Link](http://mpm.sharif.ir/mpm7-2/)
+
+
+### <a href="http://mpm.sharif.ir/mpm7-2/" target="_blank">🌐 See Results</a>
