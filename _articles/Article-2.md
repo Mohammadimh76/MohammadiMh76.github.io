@@ -9,7 +9,7 @@ venue: '3rd International Conference on Modern Approaches in Science, Technology
 Authers: S.Y.Moradi, M.Akbari Moghaddam, <b>M.H.Mohammadi</b>
 
 
-## Abstract
+<!-- ## Abstract
 
 
 ---
@@ -17,6 +17,6 @@ Authers: S.Y.Moradi, M.Akbari Moghaddam, <b>M.H.Mohammadi</b>
 {% include base_path %}
 
 To download this article you can click [here](../files/CV/CurriculumVitae.pdf).
-{: .notice--success}
+{: .notice--success} -->
  
  
