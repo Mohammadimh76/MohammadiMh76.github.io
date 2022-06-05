@@ -17,8 +17,8 @@ date: 2021-04-03
 | Declaration number | 139850140003011312 |
 | Registration number | 104189 |
 | Date of registration of the declaration | 2020-03-04 |
-| Name of Owner/Owners | [Seyed Yahya Moradi](https://about.me/smoradi) - [Mohammad Hossein Mohammadi](http://mohammadimh76.github.io/) |
-| Name of Inventor/Inventors | [Seyed Yahya Moradi](https://about.me/smoradi) - [Mohammad Hossein Mohammadi](http://mohammadimh76.github.io/) |
+| Name of Owner/Owners | <a href="https://about.me/smoradi" target="_blank">Seyed Yahya Moradi</a> - <a href="http://mohammadimh76.github.io/" target="_blank">Mohammad Hossein Mohammadi</a> |
+| Name of Inventor/Inventors | <a href="https://about.me/smoradi" target="_blank">Seyed Yahya Moradi</a> - <a href="http://mohammadimh76.github.io/" target="_blank">Mohammad Hossein Mohammadi</a> |
 | International classification | A61B 5/00 |
 
 ---
