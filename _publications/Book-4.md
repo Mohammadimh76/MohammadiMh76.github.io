@@ -11,16 +11,17 @@ venue: 'Arna'
   <img width="460" height="300" src='/images/Tensorflow_Mockup.jpg'>
 </p>
 
+
 | Information Book  |   |
 |-----------|--------------------|
 |  <b>Book Name</b>   |   TensorFlow Tutorial  |
-| <b>Authors</b>    |   M.H.Mohammadi, S.Y.Moradi |
+| <b>Authors</b>    |   <a href="http://mohammadimh76.github.io/" target="_blank"><b>M.H.Mohammadi</b></a>, <a href="https://about.me/smoradi" target="_blank">S.Y.Moradi</a> |
 | <b>language</b>    |  Persian   |
 | <b>Printed in the</b>    |  IRAN   |
-| <b>Publisher</b>    |   [Arna](http://arnapub.com/)  |
+| <b>Publisher</b>    |   <a href="http://arnapub.com/" target="_blank">Arna</a>  |
 | <b>First Printing Edition</b>    |   Mar,2021  |
 | <b>Print Length</b>    |  394   |
-| <b>[ISBN](http://opac.nlai.ir/opac-prod/search/briefListSearch.do?command=FULL_VIEW&id=7545636&pageStatus=2&sortKeyValue1=sortkey_title&sortKeyValue2=sortkey_author)</b>    |  [‫‬‭‬‭978-622-291-016-7](http://opac.nlai.ir/opac-prod/search/briefListSearch.do?command=FULL_VIEW&id=7545636&pageStatus=2&sortKeyValue1=sortkey_title&sortKeyValue2=sortkey_author)   |
+| <b>ISBN</b>    |  <a href="http://opac.nlai.ir/opac-prod/search/briefListSearch.do?command=FULL_VIEW&id=7545636&pageStatus=2&sortKeyValue1=sortkey_title&sortKeyValue2=sortkey_author" target="_blank">‫‬‭‬‭978-622-291-016-7</a>   |
 
 
 
