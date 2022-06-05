@@ -15,13 +15,13 @@ venue: 'Arna'
 | Information Book  |   |
 |-----------|--------------------|
 |  <b>Book Name</b>   |   A Step-By-Step Guide to Patenting in Iran  |
-| <b>Authors</b>    |   M.H.Mohammadi, [A.Karimi](https://alikarimi120.github.io/), [S.Y.Moradi](http://symoradi.website2.me/)|
+| <b>Authors</b>    |   <a href="http://mohammadimh76.github.io/" target="_blank"><b>M.H.Mohammadi</b></a>, <a href="https://alikarimi120.github.io/" target="_blank">A.Karimi</a>, <a href="https://about.me/smoradi" target="_blank">S.Y.Moradi</a>|
 | <b>language</b>    |  English   |
 | <b>Printed in the</b>    |  IRAN   |
-| <b>Publisher</b>    |   [Arna](http://arnapub.com/)  |
+| <b>Publisher</b>    |   <a href="http://arnapub.com/" target="_blank">Arna</a>  |
 | <b>First Printing Edition</b>    |   Nov,2020  |
 | <b>Print Length</b>    |  70   |
-| <b>[ISBN](http://opac.nlai.ir/opac-prod/search/briefListSearch.do?command=FULL_VIEW&id=7404993&pageStatus=2&sortKeyValue1=sortkey_title&sortKeyValue2=sortkey_author)</b>    |  [978-600-356-922-8](http://opac.nlai.ir/opac-prod/search/briefListSearch.do?command=FULL_VIEW&id=7404993&pageStatus=2&sortKeyValue1=sortkey_title&sortKeyValue2=sortkey_author)   |
+| <b>ISBN</b>    |  <a href="http://opac.nlai.ir/opac-prod/search/briefListSearch.do?command=FULL_VIEW&id=7404993&pageStatus=2&sortKeyValue1=sortkey_title&sortKeyValue2=sortkey_author">978-600-356-922-8‬‬</a>   |
 
 ## 〽️Introduction:
 This book aims to acquaint faculty and university students, and all the researchers and inventors, interested in registering their designs, with the patenting process in Iran. For this purpose, different chapters intend to convey scientific and applied concepts vividly and serve as a tutorial for researchers. The main concern of this title is to explicitly express everything a researcher is required to know about the patenting process in Iran. We are proud to have taken a step toward creativity and research development for aficionados.<br>
