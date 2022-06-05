@@ -6,6 +6,11 @@ excerpt: 'Honor description 3rd Team Rank, 4th Mobile Programming Marathon along
 date: 2017-09-14
 ---
 
+### <a href="http://mpm.sharif.ir/mpm4/" target="_blank">🌐 See Results</a>
+
+---
+
+
 <p align="center">
   <img width="700" height="393" src='/images/4thMobileProgrammingMarathon.jpg'>
 </p>
@@ -71,6 +76,8 @@ To select the main challenges of the competition, a meeting of the Industry Rela
 
 ### 🔸Refereeing stages
 During 48 hours, the teams will design and execute their programs in one of the areas. Each area will have its own judging criteria, so the project completion process must be done with these criteria in mind to achieve the highest scores.<br>
-The first refereeing team consists of friends who each specialize in a specific topic from the above topics. During the competition process, the referees go to each team and in addition to giving the necessary advice and observing activities and achievements, with the teams They talk about how they work and gradually record the scores of each team. These people will review your software according to the criteria of your chosen field. Registered scores introduce the best teams in each field. Until the end of the competition, no one knows the result of this selection, so the teams must continue the process of completing the project and other necessary items according to the previous process. At the end of 48 hours and at the closing ceremony, the names of the teams that advanced to the second stage will be announced gradually. Each team has 10 minutes to present what they have designed and implemented. The second arbitration team will record its votes based on the criteria of each constituency. The referee points of the first stage plus the referee points of the second stage will determine the best ones.
+The first refereeing team consists of friends who each specialize in a specific topic from the above topics. During the competition process, the referees go to each team and in addition to giving the necessary advice and observing activities and achievements, with the teams They talk about how they work and gradually record the scores of each team. These people will review your software according to the criteria of your chosen field. Registered scores introduce the best teams in each field. Until the end of the competition, no one knows the result of this selection, so the teams must continue the process of completing the project and other necessary items according to the previous process. At the end of 48 hours and at the closing ceremony, the names of the teams that advanced to the second stage will be announced gradually. Each team has 10 minutes to present what they have designed and implemented. The second arbitration team will record its votes based on the criteria of each constituency. The referee points of the first stage plus the referee points of the second stage will determine the best ones.<br>
 
-⭕️ [Link](http://mpm.sharif.ir/mpm4/)
+---
+
+### <a href="http://mpm.sharif.ir/mpm4/" target="_blank">🌐 See Results</a>
