@@ -4,24 +4,21 @@ collection: patents
 permalink: /patents/Patent-1
 excerpt: 'Patent Number: ir 139550140003013173'
 date: 2017-02-2
-categories:
-  - Markup
-tags:
-  - content
-  - css
-  - formatting
-  - html
-  - markup
 toc: true
+toc_label: "Getting Started"
 ---
 
-A variety of common markup showing how the theme styles them.
 
 ## Header two
 
 ### Header three
 
 #### Header four
+
+## Header two
+## Header two
+## Header two
+## Header two
 
 ---
 
