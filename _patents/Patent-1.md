@@ -5,7 +5,7 @@ permalink: /patents/Patent-1
 excerpt: 'Patent Number: ir 139550140003013173'
 date: 2017-02-2
 toc: true
-toc_label: "Getting Started"
+toc_sticky: true
 ---
 
 
@@ -15,10 +15,6 @@ toc_label: "Getting Started"
 
 #### Header four
 
-## Header two
-## Header two
-## Header two
-## Header two
 
 ---
 
