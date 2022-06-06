@@ -4,7 +4,16 @@ collection: softwares
 permalink: /softwares/softwares-4
 excerpt: 'M.H.Mohammadi, A.Karimi [(Demo)](https://mohammadimh76.github.io//softwares/softwares-4)'
 date: 2023-01-1
+gallery2:
+  - url: https://raw.githubusercontent.com/Mohammadimh76/MohammadiMh76.github.io/master/images/SGVSSl.png
+    image_path: https://raw.githubusercontent.com/Mohammadimh76/MohammadiMh76.github.io/master/images/SGVSSl.png
+    alt: "Black and grays with a hint of green"
+  - url: https://raw.githubusercontent.com/Mohammadimh76/MohammadiMh76.github.io/master/images/SGVSSN.png
+    image_path: https://raw.githubusercontent.com/Mohammadimh76/MohammadiMh76.github.io/master/images/SGVSSN.png
+    alt: "Made for open text placement"
 ---
+
+{% include gallery id="gallery2" caption="This is a second gallery example with images hosted externally." %}
 
 # Request for more information :)
 
