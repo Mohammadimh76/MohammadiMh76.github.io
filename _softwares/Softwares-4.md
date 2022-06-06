@@ -13,12 +13,10 @@ gallery2:
     alt: "Made for open text placement"
 ---
 
-{% include gallery id="gallery2" caption="This is a second gallery example with images hosted externally." %}
 
 # Request for more information :)
 
-<img src='/images/SGVSSl.png'>
-<img src='/images/SGVSSN.png'>
+{% include gallery id="gallery2" caption="This is a second gallery example with images hosted externally." %}
 
 
 ### Contact us
