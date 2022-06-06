@@ -16,7 +16,7 @@ gallery2:
 
 # Request for more information :)
 
-{% include gallery id="gallery2" caption="This is a second gallery example with images hosted externally." %}
+{% include gallery id="gallery2" caption="Click on each photo to enlarge" %}
 
 
 ### Contact us
