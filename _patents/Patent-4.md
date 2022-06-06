@@ -5,12 +5,12 @@ permalink: /patents/Patent-4
 excerpt: 'Patent Number: ir 139850140003011312'
 date: 2021-04-03
 gallery_profile_mohammadi:
-  - url: https://raw.githubusercontent.com/Mohammadimh76/MohammadiMh76.github.io/master/images/patent_hetro_1.jpg
-    image_path: https://raw.githubusercontent.com/Mohammadimh76/MohammadiMh76.github.io/master/images/patent_hetro_1.jpg
+  - url: https://raw.githubusercontent.com/Mohammadimh76/MohammadiMh76.github.io/master/images/Profile.png
+    image_path: https://raw.githubusercontent.com/Mohammadimh76/MohammadiMh76.github.io/master/images/Profile__path.png
     alt: "Black and grays with a hint of green"
 gallery_profile_moradi:
-  - url: https://raw.githubusercontent.com/Mohammadimh76/MohammadiMh76.github.io/master/images/patent_hetro_1.jpg
-    image_path: https://raw.githubusercontent.com/Mohammadimh76/MohammadiMh76.github.io/master/images/patent_hetro_1.jpg
+  - url: https://raw.githubusercontent.com/Mohammadimh76/MohammadiMh76.github.io/master/images/SeyedYahyaMoradi.png
+    image_path: https://raw.githubusercontent.com/Mohammadimh76/MohammadiMh76.github.io/master/images/SeyedYahyaMoradi_path.png
     alt: "Black and grays with a hint of green"
 gallery2:
   - url: https://raw.githubusercontent.com/Mohammadimh76/MohammadiMh76.github.io/master/images/patent_hetro_1.jpg
@@ -89,11 +89,10 @@ This system is used in medical, diagnostic, laboratory, and home centers to chec
 
 
 
-
 | Pic            | Name   |    Information    |
 | --------         | ------ | -----------|
 | <img width="150" height="150" {% include gallery id="gallery_profile_moradi" caption="" %}>    | <b>Seyed Yahya Moradi</b>  | 1. <a href="https://about.me/smoradi" target="_blank">Personal Website</a> <br> 2. <a href="https://www.linkedin.com/in/seyed-yahya-moradi-39138685/" target="_blank">LinkedIn</a> <br> 3. S.YahyaMoradi@yahoo.com       |
-| {% include gallery id="gallery_profile_mohammadi" caption="" %}    | <b>Mohammad Hossein Mohammadi</b>   | 1. <a href="http://mohammadimh76.github.io/" target="_blank">Personal Website</a> <br> 2. <a href="https://www.linkedin.com/in/mohammadimh76/" target="_blank">LinkedIn</a> <br> 3. M.H.Mohammadimir2017@gmail.com              | 
+|  <img width="150" height="150" {% include gallery id="gallery_profile_mohammadi" caption="" %}>  | <b>Mohammad Hossein Mohammadi</b>   | 1. <a href="http://mohammadimh76.github.io/" target="_blank">Personal Website</a> <br> 2. <a href="https://www.linkedin.com/in/mohammadimh76/" target="_blank">LinkedIn</a> <br> 3. M.H.Mohammadimir2017@gmail.com              | 
 
 
 
