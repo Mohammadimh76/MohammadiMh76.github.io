@@ -57,8 +57,6 @@ In this idea, there is a new method for presenting, examining, and diagnosing co
 
 ---
 
-
-
 ## Related technical context of the invention
 * <b>Medicine and ophthalmology:</b> This idea has been designed and implemented in order to improve the accuracy and performance of physicians and ophthalmologists, and its application in this field is evident.
 * <b>Medical Engineering:</b> Considering the use of engineering sciences in order to improve and assist in diagnostic and therapeutic methods, it can be said that this idea of medical engineering has been used in order to design and optimize the relationship between engineering and medicine.
