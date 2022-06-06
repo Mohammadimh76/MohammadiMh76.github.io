@@ -4,13 +4,16 @@ collection: patents
 permalink: /patents/Patent-4
 excerpt: 'Patent Number: ir 139850140003011312'
 date: 2021-04-03
-gallery:
+gallery2:
   - url: /images/patent_hetro_1.jpg
     image_path: /images/patent_hetro_1-th.jpg
+    alt: "Black and grays with a hint of green"
   - url: /images/patent_hetro_2.jpg
     image_path: /images/patent_hetro_2-th.jpg
-  - url: /images/patent_hetro_3.jpg
+    alt: "Made for open text placement"
+  - url:/images/patent_hetro_3.jpg
     image_path: /images/patent_hetro_3-th.jpg
+    alt: "Fog in the trees"
 ---
 
 <b>Patent Number (Open this link just with Iran IP): </b> <a href="https://ipm.ssaa.ir/Search-Result?page=1&DecNo=139850140003011312&RN=104189" target="_blank">ir 139850140003011312</a>
@@ -65,7 +68,7 @@ In this idea, there is a new method for presenting, examining, and diagnosing co
 
 
 
-{% include gallery id="gallery" layout="half" caption="" %}
+{% include gallery id="gallery2" caption="This is a second gallery example with images hosted externally." %}
 
 
 
