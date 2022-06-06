@@ -4,19 +4,8 @@ collection: patents
 permalink: /patents/Patent-1
 excerpt: 'Patent Number: ir 139550140003013173'
 date: 2017-02-2
-gallery2:
-  - url: https://raw.githubusercontent.com/Mohammadimh76/MohammadiMh76.github.io/master/images/patent_hetro_1.jpg
-    image_path: https://raw.githubusercontent.com/Mohammadimh76/MohammadiMh76.github.io/master/images/patent_hetro_1.jpg
-    alt: "Black and grays with a hint of green"
-  - url: https://raw.githubusercontent.com/Mohammadimh76/MohammadiMh76.github.io/master/images/patent_hetro_2.jpg
-    image_path: https://raw.githubusercontent.com/Mohammadimh76/MohammadiMh76.github.io/master/images/patent_hetro_2.jpg
-    alt: "Made for open text placement"
-  - url: https://raw.githubusercontent.com/Mohammadimh76/MohammadiMh76.github.io/master/images/patent_hetro_3.jpg
-    image_path: https://raw.githubusercontent.com/Mohammadimh76/MohammadiMh76.github.io/master/images/patent_hetro_3.jpg
-    alt: "Fog in the trees"
 ---
 
-{% include gallery id="gallery2" caption="This is a second gallery example with images hosted externally." %}
 
 
 ---
