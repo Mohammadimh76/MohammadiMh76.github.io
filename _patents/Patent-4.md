@@ -4,16 +4,6 @@ collection: patents
 permalink: /patents/Patent-4
 excerpt: 'Patent Number: ir 139850140003011312'
 date: 2021-04-03
-layouts_gallery:
-  - url: /images/patent_hetro_1.jpg
-    image_path: /images/patent_hetro_1.jpg
-    alt: "splash layout example"
-  - url: /images/patent_hetro_2.jpg
-    image_path: /images/patent_hetro_2.jpg
-    alt: "single layout with comments and related posts"
-  - url: /images/patent_hetro_3.jpg
-    image_path: /images/patent_hetro_3.jpg
-    alt: "archive layout example"
 ---
 
 <b>Patent Number (Open this link just with Iran IP): </b> <a href="https://ipm.ssaa.ir/Search-Result?page=1&DecNo=139850140003011312&RN=104189" target="_blank">ir 139850140003011312</a>
@@ -64,13 +54,6 @@ In this idea, there is a new method for presenting, examining, and diagnosing co
   <img width="230" height="150" src='/images/patent_hetro_2.jpg'>
   <img width="230" height="150" src='/images/patent_hetro_3.jpg'>
 </p>
-
-
-
-
-{% include gallery id="layouts_gallery" caption="Examples of included layouts `splash`, `single`, and `archive`." %}
-
-
 
 ---
 
