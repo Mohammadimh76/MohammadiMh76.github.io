@@ -5,14 +5,14 @@ permalink: /patents/Patent-4
 excerpt: 'Patent Number: ir 139850140003011312'
 date: 2021-04-03
 gallery2:
-  - url: /images/patent_hetro_1.jpg
-    image_path: /images/patent_hetro_1-th.jpg
+  - url: https://flic.kr/p/8a6Ven
+    image_path: https://farm2.staticflickr.com/1272/4697500467_8294dac099_q.jpg
     alt: "Black and grays with a hint of green"
-  - url: /images/patent_hetro_2.jpg
-    image_path: /images/patent_hetro_2-th.jpg
+  - url: https://flic.kr/p/8a738X
+    image_path: https://farm5.staticflickr.com/4029/4697523701_249e93ba23_q.jpg
     alt: "Made for open text placement"
-  - url:/images/patent_hetro_3.jpg
-    image_path: /images/patent_hetro_3-th.jpg
+  - url: https://flic.kr/p/8a6VXP
+    image_path: https://farm5.staticflickr.com/4046/4697502929_72c612c636_q.jpg
     alt: "Fog in the trees"
 ---
 
