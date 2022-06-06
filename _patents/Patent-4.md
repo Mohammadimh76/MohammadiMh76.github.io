@@ -6,13 +6,10 @@ excerpt: 'Patent Number: ir 139850140003011312'
 date: 2021-04-03
 gallery:
   - url: /images/patent_hetro_1.jpg
-    image_path: /images/patent_hetro_1.jpg
     alt: "placeholder image 1"
   - url: /images/patent_hetro_2.jpg
-    image_path: /images/patent_hetro_2.jpg
     alt: "placeholder image 2"
   - url: /images/patent_hetro_3.jpg
-    image_path: /images/patent_hetro_3.jpg
     alt: "placeholder image 3"
 ---
 
