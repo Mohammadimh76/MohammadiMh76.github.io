@@ -5,15 +5,23 @@ permalink: /patents/Patent-1
 excerpt: 'Patent Number: ir 139550140003013173'
 date: 2017-02-2
 toc: true
-toc_sticky: true
+toc_label: "My Table of Contents"
+toc_icon: "cog"
 ---
 
 
-## Header two
+# Heading
+## Heading
+### Heading
+### Heading
+# Heading
+## Heading
 
-### Header three
+Bad headings:
 
-#### Header four
+# Heading
+### Heading (skipped H2)
+##### Heading (skipped H4)
 
 
 ---
