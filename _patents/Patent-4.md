@@ -68,7 +68,7 @@ In this idea, there is a new method for presenting, examining, and diagnosing co
 
 
 
-{% include gallery id="gallery2" caption="This is a second gallery example with images hosted externally." %}
+{% include gallery id="layouts_gallery" caption="Examples of included layouts `splash`, `single`, and `archive`." %}
 
 
 
