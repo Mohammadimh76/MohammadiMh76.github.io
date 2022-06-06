@@ -59,7 +59,7 @@ In this idea, there is a new method for presenting, examining, and diagnosing co
 
 <i>Title of invention in Persian "دستگاه تشخیص زودهنگام بیماری چشمی هتروکرومیا در نوزادان"</i>
 
-{% include gallery id="gallery2" caption="This is a second gallery example with images hosted externally." %}
+{% include gallery id="gallery2" caption="" %}
 
 ---
 
