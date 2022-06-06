@@ -71,7 +71,7 @@ In this idea, there is a new method for presenting, examining, and diagnosing co
 
 
 
-{% include gallery caption="" %}
+{% include gallery id="gallery" layout="half" caption="" %}
 
 
 
