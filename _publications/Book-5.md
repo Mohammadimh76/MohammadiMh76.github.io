@@ -6,11 +6,14 @@ excerpt: 'One of the most famous and practical security documents is the CEH cer
 date: 2020-11-01
 venue: 'Arna'
 author_profile: false
+sidebar:
+  title: "Sample Title"
+  nav: sidebar-sample
 ---
-<!--
+
 <p align="center">
   <img width="460" height="300" src='/images/CEH_Mockup.jpg'>
-</p> -->
+</p> 
 
 
 | Information Book  |   |
