@@ -5,13 +5,11 @@ permalink: /publication/Book-7
 excerpt: 'This book aims to acquaint faculty and university students, and all the researchers and inventors, interested in registering their designs, with the patenting process in Iran...'
 date: 2020-11-01
 venue: 'Arna'
-toc: true
-toc_sticky: true
 ---
-<!--
+
 <p align="center">
   <img width="460" height="300" src='/images/Patent_Mockup.jpg'>
-</p> -->
+</p> 
 
 
 | Information Book  |   |
