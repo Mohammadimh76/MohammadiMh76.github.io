@@ -9,11 +9,13 @@ author_profile: false
 sidebar:
   title: "Sample Title"
   nav: sidebar-sample
+toc: true
+toc_sticky: true
 ---
-
+<!--
 <p align="center">
   <img width="460" height="300" src='/images/CEH_Mockup.jpg'>
-</p> 
+</p>  -->
 
 
 | Information Book  |   |
