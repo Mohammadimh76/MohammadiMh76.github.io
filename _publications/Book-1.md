@@ -11,19 +11,6 @@ venue: 'Arna'
   <img width="460" height="300" src='/images/Arduino_Mockup.jpg'>
 </p>
 
----
 
-<a href="#" class="btn btn--primary">Link Text</a>
-
----
-
-[Default Button](#){: .btn}
-[Primary Button](#){: .btn .btn--primary}
-[Success Button](#){: .btn .btn--success}
-[Warning Button](#){: .btn .btn--warning}
-[Danger Button](#){: .btn .btn--danger}
-[Info Button](#){: .btn .btn--info}
-[Inverse Button](#){: .btn .btn--inverse}
-[Light Outline Button](#){: .btn .btn--light-outline}
 
 
