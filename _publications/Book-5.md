@@ -7,10 +7,6 @@ permalink: /publication/Book-5
 excerpt: 'One of the most famous and practical security documents is the CEH certificate or the specialized certificate of legal hackers...'
 date: 2020-11-01
 venue: 'Arna'
-author_profile: false
-sidebar:
-  title: "Sample Title"
-  nav: sidebar-sample
 ---
 
 <p align="center">
