@@ -1,12 +1,5 @@
 ---
 permalink: /
-
-# table of contents
-toc: true
-toc_label: "Contents"
-toc_icon: "dna"
-toc_sticky: true
-
 title: "About me"
 excerpt: "About me"
 author_profile: true
