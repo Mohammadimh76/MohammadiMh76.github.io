@@ -8,8 +8,8 @@ redirect_from:
 ---
 <br>
 
-**M.Sc. Student in Computer Systems Architecture**
-* Department of Computer Engineering, <i><b>[Shahid Beheshti University](https://en.sbu.ac.ir/)</b></i>, Tehran, Iran <br>
+<!-- **M.Sc. Student in Computer Systems Architecture**
+* Department of Computer Engineering, <i><b>[Shahid Beheshti University](https://en.sbu.ac.ir/)</b></i>, Tehran, Iran <br> -->
 
 <blockquote>
   <p><strong>BSc - Computer Enginnering (Information Technology) - 2015-2021</strong> <br>
