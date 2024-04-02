@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello, My name is Mohammad Hossein Mohammadi!<br>
+Hello, My name is <strong>Mohammad Hossein Mohammadi</strong>!<br>
 
 I am a master's Student at <a href="https://en.sbu.ac.ir/" target="_blank">Shahid Beheshti university</a>.
 
