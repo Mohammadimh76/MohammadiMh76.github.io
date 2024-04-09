@@ -10,8 +10,6 @@ redirect_from:
 
 Hello, My name is <strong>Mohammad Hossein Mohammadi</strong>!<br>
 
-I am a master's Student at <a href="https://en.sbu.ac.ir/" target="_blank">Shahid Beheshti university</a>.
-
 I finished my 𝐁𝐒𝐜 in Information Technology (IT) Engineer from Islamic Azad University, Najafabad Branch <a href="https://cwur.org/2021-22/Islamic-Azad-University.php" target="_blank">(IAUN)</a> <u>(Racked within the top 3 universities in Iran according to 2021 - 2022 CWUR Ranking)</u>. My research involves machine vision, deep learning, and neural networks. I completed <strong>my thesis on</strong> <em>Semantic segmentation of breast cancer pathology images using the U-Net model</em>.
 
 My main research interests
