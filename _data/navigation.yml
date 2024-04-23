@@ -31,8 +31,8 @@ main:
   - title: "Patents"
     url: /patents/
     
-  - title: "Softwares"
-    url: /softwares/
+#  - title: "Softwares"
+#    url: /softwares/
     
   - title: "Publications"
     url: /publications/
@@ -42,6 +42,9 @@ main:
     
   - title: "Honors & Awards"
     url: /honors/
+
+  - title: "Blog Posts"
+    url: /year-archive/
     
   - title: "Contact"
     url: /contact/
