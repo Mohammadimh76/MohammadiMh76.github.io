@@ -18,18 +18,9 @@ My main research interests
 * Neural Networks and Deep Learning
 * Computer Vision, Image Processing
 
-<!-- 
-☕[buymeacoffee](https://www.buymeacoffee.com/mohammadimh76)
----
-
-<p align="center">
-  <img width="250" height="250" src="https://raw.githubusercontent.com/Mohammadimh76/Mohammadimh76/master/src/buymeacoffee.png">
-</p> 
--->
-
- Curriculum Vitae (CV)
+Curriculum Vitae (CV)
 ---
 {% include base_path %}
 
-To download my curriculum vitae in english you can click [here](../files/CV/CurriculumVitae.pdf).
+To download my curriculum vitae in english you can click [here](../files/CV/CV_MohammadHosseinMohammadi.pdf).
 {: .notice--success} 
