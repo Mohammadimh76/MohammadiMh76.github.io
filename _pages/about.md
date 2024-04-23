@@ -25,8 +25,11 @@ Curriculum Vitae (CV)
 To download my curriculum vitae in english you can click [here](../files/CV/CV_MohammadHosseinMohammadi.pdf).
 {: .notice--success} 
 
-## Important Files:
-| Title  | 🔗 Link          | Last update         |
-|-----------|--------------------|--------------------|
-| <b>Curriculum Vitae (CV)</b> | Download | April, 2024 |
-| <b>Resume</b> | Download | April, 2024 |
+
+## Important Files
+
+
+| Title            | Link   |    Last update    |
+| --------         | ------ | -----------|
+| <b>Curriculum Vitae (CV)</b>    | Download  | April, 2024       |
+| <b>Resume</b>    | Download  | April, 2024       |
