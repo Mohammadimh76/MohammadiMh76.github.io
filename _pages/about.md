@@ -17,13 +17,15 @@ My main research interests
 * Natural language processing (Information extraction, Automatic summarization, Speech recognition)
 * Neural Networks and Deep Learning
 * Computer Vision, Image Processing
-<!--
+
+<!-- 
 ☕[buymeacoffee](https://www.buymeacoffee.com/mohammadimh76)
 ---
 
 <p align="center">
   <img width="250" height="250" src="https://raw.githubusercontent.com/Mohammadimh76/Mohammadimh76/master/src/buymeacoffee.png">
-</p> -->
+</p> 
+-->
 
  Curriculum Vitae (CV)
 ---
