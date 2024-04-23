@@ -18,18 +18,19 @@ My main research interests
 * Neural Networks and Deep Learning
 * Computer Vision, Image Processing
 
+<!--
 Curriculum Vitae (CV)
 ---
 {% include base_path %}
 
 To download my curriculum vitae in english you can click [here](../files/CV/CV_MohammadHosseinMohammadi.pdf).
 {: .notice--success} 
-
+-->
 
 ## Important Files
 
 
 | Title            | Link   |    Last update    |
 | --------         | ------ | -----------|
-| <b>Curriculum Vitae (CV)</b>    | Download  | April, 2024       |
+| <b>Curriculum Vitae (CV)</b>    | [Download](https://raw.githubusercontent.com/Mohammadimh76/MohammadiMh76.github.io/2e86ce50e80b4c8754558b78954decc2e0a1d02f/files/CV/CV_MohammadHosseinMohammadi.pdf)  | April, 2024       |
 | <b>Resume</b>    | Download  | April, 2024       |
