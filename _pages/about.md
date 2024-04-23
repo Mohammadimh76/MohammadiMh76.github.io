@@ -14,20 +14,20 @@ I finished my 𝐁𝐒𝐜 in Information Technology (IT) Engineer from Islamic 
 
 My main research interests
 ---
-* Artificial Intelligence, Machine Learning
-* Optimization Algorithm, Neural & NeuroFuzzy Network
-* Computer Vision, Signal and Image Processing
-
+* Natural language processing (Information extraction, Automatic summarization, Speech recognition)
+* Neural Networks and Deep Learning
+* Computer Vision, Image Processing
+<!--
 ☕[buymeacoffee](https://www.buymeacoffee.com/mohammadimh76)
 ---
 
 <p align="center">
   <img width="250" height="250" src="https://raw.githubusercontent.com/Mohammadimh76/Mohammadimh76/master/src/buymeacoffee.png">
-</p>
+</p> -->
 
-<!-- Curriculum Vitae (CV)
+ Curriculum Vitae (CV)
 ---
 {% include base_path %}
 
 To download my curriculum vitae in english you can click [here](../files/CV/CurriculumVitae.pdf).
-{: .notice--success} -->
+{: .notice--success} 
