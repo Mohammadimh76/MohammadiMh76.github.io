@@ -325,3 +325,7 @@
 .fa.fa-pull-right {
   margin-left: .3em;
 }
+.python-code {
+	font-size: 16px; /* Change the font size as desired */
+        font-family: 'Courier New', monospace; /* Change the font family as desired */
+}
