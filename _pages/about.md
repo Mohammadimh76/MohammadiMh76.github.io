@@ -32,5 +32,5 @@ To download my curriculum vitae in english you can click [here](../files/CV/CV_M
 
 | Title            | Link   |    Last update    |
 | --------         | ------ | -----------|
-| <b>Curriculum Vitae (CV)</b>    | [Download](https://raw.githubusercontent.com/Mohammadimh76/MohammadiMh76.github.io/2e86ce50e80b4c8754558b78954decc2e0a1d02f/files/CV/CV_MohammadHosseinMohammadi.pdf)  | ---       |
+| <b>Curriculum Vitae (CV)</b>    | Download  | ---       |
 | <b>Resume</b>    | Download  | ---       |
