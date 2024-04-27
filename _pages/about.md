@@ -32,5 +32,5 @@ To download my curriculum vitae in english you can click [here](../files/CV/CV_M
 
 | Title            | Link   |    Last update    |
 | --------         | ------ | -----------|
-| <b>Curriculum Vitae (CV)</b>    | Download  | ---       |
-| <b>Resume</b>    | Download  | ---       |
+| <b>Curriculum Vitae (CV)</b>    | Not available at the moment  | ---       |
+| <b>Resume</b>    | Not available at the moment  | ---       |
