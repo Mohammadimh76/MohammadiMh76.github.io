@@ -16,7 +16,7 @@ redirect_from:
    <!-- <li>GPA:   Overall         17.91 / 20   </li> -->
   <li>Thesis Title: Semantic segmentation of breast cancer pathology images using the U-Net model -- [Document]</li>
   <li>Thesis Advisor: <a href="https://research.iaun.ac.ir/pd/jabalameli/" target="_blank">Dr.Mehdi Jabalameli</a></li>
-  <li>📄 <a href="https://raw.githubusercontent.com/Mohammadimh76/MohammadiMh76.github.io/270c529af0d8ea228ad57a3101a373fabf50b5af/files/CourseDescription/CourseDescription_IT_IAUN.pdf" target="_blank">Course Description</a></li>
+  <li>📄 <a href="https://raw.githubusercontent.com/Mohammadimh76/MohammadiMh76.github.io/master/files/CourseDescription/CourseDescription_IT_IAUN.pdf" target="_blank">Course Description</a></li>
   </ul>
 </blockquote>
 
