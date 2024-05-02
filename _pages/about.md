@@ -14,9 +14,9 @@ I finished my <b>BSc</b> in Information Technology (IT) Engineer from Islamic Az
 
 My main research interests
 ---
-* Natural language processing (Information extraction, Automatic summarization, Speech recognition)
-* Neural Networks and Deep Learning
-* Computer Vision, Image Processing
+* Artificial Intelligence, Machine Learning
+* Optimization Algorithm, Neural & NeuroFuzzy Network
+* Computer Vision, Signal and Image Processing
 
 <!--
 Curriculum Vitae (CV)
