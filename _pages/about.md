@@ -15,7 +15,7 @@ I finished my <b>BSc</b> in Information Technology (IT) Engineer from Islamic Az
 My main research interests
 ---
 * Artificial Intelligence, Machine Learning
-* Optimization Algorithm, Neural & NeuroFuzzy Network
+* Optimization Algorithm, Neural & Neuro Fuzzy Network
 * Computer Vision, Signal and Image Processing
 
 <!--
